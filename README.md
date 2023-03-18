@@ -1,6 +1,7 @@
 # C programing from beginner to master
 ----------------------------------------------------------------------
 
+
 01_Day02_16072022_001Pgm.c / Description: Explanation of printf, scanf, escape sequences
 
 =======================================================================
@@ -13,5 +14,5 @@
 03_Day02_16072022_001Pgm.c / Description : Program to demonstrate arithematic operators
 
 =======================================================================
-03_Day02_16072022_002Pgm / Description : Program to demonstrate varabile overflow
+03_Day02_16072022_002Pgm.c / Description : Program to demonstrate varabile overflow
 
