@@ -1,4 +1,4 @@
-# C programing from begginers to master
+# C programing from beginner to master
 --------------------------------------------------------------------------------------
 
 01_Day02_16072022_001Pgm.c / Description: Explanation of printf, scanf, escape sequences
