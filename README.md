@@ -13,5 +13,5 @@ Description: Demonstartion of constants and format string specifiers
 Description : Program to demonstrate variables, string constants
 
 ===============================================================================
-Name        : 03_Day02_16072022_001Pgm
+03_Day02_16072022_001Pgm
 Description : Program to demonstrate arithematic operators
